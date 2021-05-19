@@ -10,7 +10,6 @@
 <p align="left">
 🐦 <a href="https://twitter.com/abcarrie" target="blank">Twitter</a> <br>
 🤝 <a href="https://www.linkedin.com/in/carrie-mathieu/" target="blank">LinkedIn</a><br>
-⌨️ <a href="https://www.hackerrank.com/carriemathieu" target="blank">HackerRank</a><br>
 💻 <a href="https://carriemathieu.github.io/" target="blank">Blog</a>
 </p>
 
